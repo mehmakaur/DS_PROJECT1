@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Growth Advisor
+#  Restaurant Growth Advisor
 
 A Data Science project focused on analyzing restaurant performance using customer ratings, cuisine preferences, and operational attributes. The project combines data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and Machine Learning to identify key factors driving restaurant success.
 
